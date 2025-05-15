@@ -63,11 +63,4 @@ This notebook is useful for:
 
 At the end of the notebook, you'll find runtime metrics and visual plots showing training speed and accuracy between CPU and GPU runs.
 
-## 📎 License
 
-This project is licensed under the MIT License.
-
-## 🙌 Acknowledgments
-
-- [PyTorch](https://pytorch.org/)
-- [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
